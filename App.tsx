@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Habit, Lead, Note, Project, Settings as SettingsType, Transaction, View, Book, Workout } from './types';
-import { StorageService } from './services/storage';
+import { StorageService } from './utils';
 import Sidebar from './components/Sidebar';
 import Dashboard from './components/Dashboard';
 import Habits from './components/Habits';
