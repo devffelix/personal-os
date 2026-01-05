@@ -1,0 +1,5 @@
+{
+  "name": "Personal OS",
+  "description": "An opinionated, minimalist, execution-first personal operating system. Manages habits, CRM, projects, and notes with a focus on clarity and calmness.",
+  "requestFramePermissions": []
+}
